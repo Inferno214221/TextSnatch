@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=TextSnatch
+Comment=Copy text from the selected area
+GenericName=TextSnatch
+Exec=textsnatch
+Icon=gnome-screenshot
+Terminal=false
+Categories=Graphics;Scanning;
+Keywords=TextSnatcher;OCR;

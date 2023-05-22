@@ -15,8 +15,12 @@ This program uses the following other programs in a sequence:
 ## Install
 All users:
 
-```sudo cp ./TextSnatch.sh /usr/bin/textsnatch```
+```sudo cp ./textsnatch.sh /usr/bin/textsnatch```
+
+```sudo cp ./textsnatch.desktop /usr/share/applications/textsnatch.desktop```
 
 Signle user:
 
-```cp ./TextSnatch.sh ~/.local/bin/textsnatch```
+```cp ./textsnatch.sh ~/.local/bin/textsnatch```
+
+```cp ./textsnatch.desktop ~/.local/share/applications/textsnatch.desktop```
