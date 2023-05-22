@@ -19,7 +19,7 @@ All users:
 
 ```sudo cp ./textsnatch.desktop /usr/share/applications/textsnatch.desktop```
 
-Signle user:
+Single user:
 
 ```cp ./textsnatch.sh ~/.local/bin/textsnatch```
 
