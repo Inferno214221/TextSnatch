@@ -6,5 +6,3 @@ GenericName=TextSnatch
 Exec=textsnatch
 Icon=gnome-screenshot
 Terminal=false
-Categories=Graphics;Scanning;
-Keywords=TextSnatcher;OCR;
